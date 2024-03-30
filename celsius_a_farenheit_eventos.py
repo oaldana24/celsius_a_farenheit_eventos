@@ -1,3 +1,4 @@
+##ejercicio y ejemplo hecho en curso programador orientado a objetos de Fundacion Carlos Slim ###
 from tkinter import *
 
 class interfaz:
@@ -25,3 +26,5 @@ class interfaz:
 ventana = Tk()
 miinterfaz=interfaz(ventana)##hago llamado a la clase para el label y botón
 ventana.mainloop()
+
+##ejercicio y ejemplo hecho en curso programador orientado a objetos de Fundacion Carlos Slim ###
